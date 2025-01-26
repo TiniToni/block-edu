@@ -1,5 +1,8 @@
 # Phaser React Template
 
+plan:
+https://www.figma.com/design/20dM5F9rH4sw4a6Bly7io7/Block-Edu?node-id=0-1&t=fGEYPCjqJx1zzMP9-1
+
 This is a Phaser 3 project template that uses the React framework and Vite for bundling. It includes a bridge for React to Phaser game communication, hot-reloading for quick development workflow and scripts to generate production-ready builds.
 
 **[This Template is also available as a TypeScript version.](https://github.com/phaserjs/template-react-ts)**
