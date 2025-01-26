@@ -1,3 +1,5 @@
+NOT DONE, FILES NOT ORGANIZED OR PROPERLY CONNECTED. PLEASE SKIP THIS SUBMISSION.
+
 plan:
 https://www.figma.com/design/20dM5F9rH4sw4a6Bly7io7/Block-Edu?node-id=0-1&t=fGEYPCjqJx1zzMP9-1
 
